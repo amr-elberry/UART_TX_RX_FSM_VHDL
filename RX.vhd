@@ -3,8 +3,8 @@
 --FSM_RX_CRC
 
 ----------------------------------------------------------------------------------
--- Company: 
--- Engineer: 
+-- Company: NTI
+-- Engineer: Amr Magdy Mohamed
 -- 
 -- Create Date:    09:57:54 10/30/2023 
 -- Design Name: 
