@@ -1,6 +1,6 @@
 ----------------------------------------------------------------------------------
--- Company: 
--- Engineer: 
+-- Company: NTI
+-- Engineer: Amr Magdy Mohamed
 -- 
 -- Create Date:    14:44:22 10/24/2023 
 -- Design Name: 
